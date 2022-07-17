@@ -1,0 +1,2 @@
+FILESET = '/home/rmokross/helaba_dq_input_handle/files.json'
+DAYS_BACK = '4'

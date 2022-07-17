@@ -1,0 +1,8 @@
+{
+    "RSU": "\\home\\dq\\data\\rsu",
+    "KUN": "\\home\\dq\\data\\kunde",
+    "IRIS": "\\home\\data_qualit\\data\\iris",
+    "INTRA": "\\home\\data_quality\\data\\intra",
+    "RWH": "\\home\\data_quality\\data\\rwh",
+    "EDW": "\\home\\data_quality\\data\\edw"
+}
